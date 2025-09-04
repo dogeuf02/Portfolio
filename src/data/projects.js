@@ -2,8 +2,8 @@
 import chibchaWeb from "../assets/projects/ChibchaWeb.png";
 import NotFound from "../assets/projects/NotFound.png";
 import simulatedMultilevel from "../assets/projects/Simulador_Multilevel_Queue_Preemptive.png";
-import chibchaWebGif from "../assets/projects/ChibchaWebGif.gif";
-import NotFoundGif from "../assets/projects/404NotFoundGif.gif";
+import chibchaWebGif from "../assets/projects/ChibchaWebgif.gif";
+import NotFoundGif from "../assets/projects/404NotFoundgif.gif";
 import simulatedMultilevelGif from "../assets/projects/simulatedMultilevelgif.gif";
 // ejemplo reutilizando tu imagen
 
