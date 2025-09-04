@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Full-bleed layout */
+html, body, #root { height: 100%; width: 100%; }
+
+:root {
+  color-scheme: light;
+}
+
+/* Quita centrado del template y margen por defecto */
+body {
+  margin: 0;           /* sin margen */
+  min-width: 320px;
+  min-height: 100vh;
+  /* nada de display:flex ni place-items:center */
+}
+
+/* (Opcional) estilos base de enlaces/botones si los usabas */
+a { text-decoration: none; }
